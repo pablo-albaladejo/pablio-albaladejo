@@ -20,4 +20,5 @@
 
 
 
-[![pablo-albaladejo's GitHub | Stats](https://stats.quine.sh/pablo-albaladejo/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=pablo-albaladejo)
+[![pablo-albaladejo's GitHub | Stats](https://stats.quine.sh/pablo-albaladejo/github?theme=light)]
+[![pablo-albaladejo's Stack Overflow | Stats](https://stats.quine.sh/pablo-albaladejo/stack-overflow?theme=dark)]
