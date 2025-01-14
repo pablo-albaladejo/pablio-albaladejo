@@ -2,11 +2,11 @@
 <h3 align="center">I turn concepts into functional code – where ideas become tech reality.</h3>
 
 <p align="center">
-  🔭 Currently working on: <a href="https://github.com/pablo-albaladejo/tanita-to-garmin-cdk"><strong>TanitaToGarmin</strong></a>
+  🔭 Currently working on: <a href="https://github.com/pablo-albaladejo-ai"><strong>AI</strong></a>
 </p>
 
 <p align="center">
-  💬 Ask me about: <strong>AWS, CDK, Node.js, TypeScript, FIT</strong>
+  💬 Ask me about: <strong>AWS, CDK, Node.js, TypeScript, AI</strong>
 </p>
 
 <p align="center">
