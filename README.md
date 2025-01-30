@@ -197,6 +197,6 @@
 </div>
 
 </p>
-
+![pablo-albaladejo's Trophy](https://github-profile-trophy.vercel.app/?username=pablo-albaladejo)
 ![pablo-albaladejo's GitHub | Stats](https://stats.quine.sh/pablo-albaladejo/github?theme=light)
 ![pablo-albaladejo's Stack Overflow | Stats](https://stats.quine.sh/pablo-albaladejo/stack-overflow?theme=dark)
